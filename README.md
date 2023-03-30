@@ -1,11 +1,11 @@
-##Portfolio: "Responsive Webseiten-Entwicklung"
+## Portfolio: "Responsive Webseiten-Entwicklung"
 
 Diese Webseite ist mein persönliches Portfolio, welches ich in meiner Freizeit erstellt habe. Es ist jedoch noch unvollständig und wird kontinuierlich weiterentwickelt. Vor der Umsetzung des Projekts habe ich das Design der Webseite in Figma erstellt, einem Tool zur Erstellung von Designs und Prototypen.
 
 Die Webseite ist bisher Zeilenweise responsiv und wurde mit SCSS und React umgesetzt. Besonders stolz bin ich auf die Implementierung eines Kontaktformulars mit Validierung, welches mir sogar eine E-Mail schickt.
 
 
-###Technologien
+### Technologien
 - HTML
 - CSS mit SCSS
 - JavaScript mit React
