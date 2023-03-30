@@ -1,4 +1,4 @@
-##Portfolio Webseite
+##Portfolio: "Responsive Webseiten-Entwicklung"
 
 Diese Webseite ist mein persönliches Portfolio, welches ich in meiner Freizeit erstellt habe. Es ist jedoch noch unvollständig und wird kontinuierlich weiterentwickelt. Vor der Umsetzung des Projekts habe ich das Design der Webseite in Figma erstellt, einem Tool zur Erstellung von Designs und Prototypen.
 
